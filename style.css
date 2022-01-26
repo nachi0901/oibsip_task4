@@ -1,0 +1,322 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#mainnavbar{
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+    height:90px;
+    width:100%;
+    background-color:#231d1d;
+}
+
+.home{
+    position: relative;
+    top: 35px;
+    left: 1100px;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 20px 5px 20px;
+    text-decoration: none;
+    color:white;
+	font-size: 25px;
+}
+
+#logopink{
+position:absolute;
+height:80px;
+width:80px;
+top:4px;
+left:100px;
+}
+
+.c1{
+text-decoration:none;
+color:white;
+font-size:20px;
+}
+
+.classli{
+list-style-type:none;
+display:inline;
+margin:15px 20px 20px 15px;
+padding:4px 4px 45px 4px;
+}
+
+#navbarul{
+position:absolute;
+top:15px;
+left:700px;
+}
+
+#div60{
+position:absolute;
+top:56px;
+left:-11px;
+display:none;
+}
+
+.classa{
+text-decoration:none;
+color:white;
+}
+
+.classx{
+list-style-type:none;
+padding:8px;
+border:1px solid #191717;
+background-color:black;
+}
+
+#dropdownhover:hover #div60{
+display:inline-block;
+}
+
+#div61{
+position:absolute;
+top:56px;
+left:458px;
+display:none;
+}
+
+.classa2{
+text-decoration:none;
+color:white;
+}
+
+.classli2{
+list-style-type:none;
+padding:8px;
+border:1px solid #191717;
+background-color:black;
+}
+
+#dropdownhover1:hover #div61{
+display:inline-block;
+}
+
+#elon{
+position:absolute ;
+left: 100px;
+color: white;
+}
+
+#firstpage{
+position: relative;
+top: 89px;
+height:665px;
+width: 100%;
+background-color: black;
+}
+
+#elonimg{
+position: relative;
+top: 0px;
+left: 120px;
+height: 550px;
+width: 550px;
+}
+
+#name{
+position: absolute; 
+top: 525px;
+left: 287px;
+color: white;
+font-size: 35px;
+}
+
+#American{
+position: absolute; 
+top: 582px;
+left: 234px;
+color: white;
+font-size: 25px;
+}
+
+#paragrapha{
+position: absolute;
+top: 120px;
+left: 780px;
+color: white;
+font-size: 30px;
+}
+
+#paragraphb{
+position: absolute;
+border: 1px solid whitesmoke;
+border-radius: 10px;
+padding: 20px;
+top: 425px;
+left: 780px;
+color: white;
+font-size: 30px;
+}
+
+#second_page{
+position: relative;
+background-color: black;
+top: 88px;
+height: 750px;
+width: 100%;
+}
+
+#elonimg2{
+position: relative;
+top: 80px;
+left: 880px;
+height: 550px;
+width: 550px;
+}
+
+#earlylife{
+position:absolute ;
+top: 100px;
+left: 287px;
+font-size: 35px;
+color: white;
+}
+
+#early{
+position:absolute ;
+top: 200px;
+left: 118px;
+font-size: 30px;
+color: white;
+}
+
+#third_page{
+position: relative;
+background-color: black;
+top: 88px;
+height: 2250px;
+width: 100%;
+}
+
+#pns{
+position:absolute ;
+top: 120px;
+left: 560px;
+font-size: 35px;
+color: white;
+}
+
+#paypalimg{
+position: absolute;
+top: 200px;
+left: 18px;
+height: 200px;
+width: 356px;
+opacity: 0.4;
+}
+
+#career{
+position:absolute ;
+top: 250px;
+left: 369px;
+font-size: 30px;
+color: white;
+}
+
+#spaceximg{
+position: absolute;
+bottom: 750px;
+opacity: 0.4;
+}
+
+#career2{
+position:absolute ;
+top: 640px;
+left: 200px;
+font-size: 30px;
+color: white;
+}
+
+#teslaimg{
+position: absolute;
+bottom: 157px;
+left: 0px;
+height: 450px;
+width: 450px;
+opacity: 0.4;
+}
+
+#career3{
+position:absolute ;
+top: 1630px;
+left: 500px;
+font-size: 30px;
+color: white;
+}
+
+#conculade{
+top: 80;
+position: relative;
+height: 755px;
+width: 100%;
+background-color: black;
+}
+
+iframe{
+position: absolute;
+top: 215px;
+left: 100px;
+height: 315px;
+width: 560px;
+}
+
+.about{
+position: relative;
+top: 600px;
+left: 550px;
+margin: 5px 5px 5px 5px;
+padding: 9px 58px 43px 30px;
+text-decoration: none;
+color:white;
+font-size: 20px;
+}
+
+.logo{
+position: absolute;
+height: 50px;
+width: 50px;	  
+border-radius: 10px;
+}
+
+#quote{
+position: absolute;
+top: 300px;
+left: 755px;
+font-size: 31px;
+border: 2px solid white;
+border-radius: 10px;
+padding: 52px;
+color: white;
+}
+
+#sign{
+position: absolute;
+top: 100px;
+font-size: 23px;
+left: 515px;
+}
+
+#ending{
+position: absolute;
+top: 667px;
+left: 638px;
+color:white;
+font-size: 20px;
+}
+
+span{
+position: absolute;
+top: 1px;
+padding: 0px;
+margin: 0px;
+font-size: 10px;
+height: 2px;
+width: 2px;
+color: red;
+}
